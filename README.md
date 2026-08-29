@@ -63,7 +63,7 @@ An interactive Power BI dashboard was created to provide a clear overview of sal
 
 ## 📊 Dashboard Preview
 
-![Sales Dashboard]("C:\Users\vyshu\OneDrive\Desktop\Sales project\Sales Dashboard Image.png")
+![Sales Performance Dashboard](images/sales_dashboard.png)
 
 
 
