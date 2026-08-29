@@ -63,7 +63,7 @@ An interactive Power BI dashboard was created to provide a clear overview of sal
 
 ## 📊 Dashboard Preview
 
-![Sales Performance Dashboard](images/sales_dashboard.png)
+![Sales Performance Dashboard](images/Sales Dashboard Image.png)
 
 
 
